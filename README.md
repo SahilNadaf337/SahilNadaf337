@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Sahil 👋  
+# I'm Sahil 👋  
 
 🎓 Final-year Electronics and Communication Engineering student at KLE Technological University.  
 🔬 Specializing in Analog & Mixed-Signal IC Design.  
