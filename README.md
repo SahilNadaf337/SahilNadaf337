@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-# I'm Sahil 👋
+# I'm Sahil Nadaf 👋
 
 🎓 Electronics and Communication Engineering Graduate (CGPA: 8.94) from KLE Technological University.
 
