@@ -1,17 +1,31 @@
+# Hi, I'm Sahil Nadaf 👋
 
-## Hi there 👋
+🎓 Electronics and Communication Engineering Graduate | CGPA: 8.94  
+🏫 KLE Technological University
 
-# I'm Sahil Nadaf 👋
+🔬 Interested in Analog & Mixed-Signal IC Design and Semiconductor Technology.
 
-🎓 Electronics and Communication Engineering Graduate (CGPA: 8.94) from KLE Technological University.
+💡 Projects:
+- LDO Regulator
+- Bandgap Reference
+- Op-Amp Design
+- Standard Cell Layout
 
-🔬 Specializing in Analog & Mixed-Signal IC Design and Layout.
+⚡ Skills:
+- Cadence Virtuoso
+- Analog IC Design
+- Custom Layout
+- DRC, LVS & PEX
+- LTspice
 
-💡 Projects: LDO Regulator, Bandgap Reference, Op-Amps, Standard Cell Layout etc.
+🚀 Incoming Systems Engineer at TCS
 
-⚡ Skills: Cadence Virtuoso, Analog IC Design, Custom Layout, DRC, LVS, PEX.
+## 📜 Certifications
 
-🚀 Incoming Systems Engineer at TCS.
+- **GATE 2026 – Electronics and Communication Engineering** — Qualified
+- **Analog Electronic Circuits** — IIT Madras
+- **Analog IC Design** — IIT Madras
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sahil-nadaf-9a085126a/) | [GitHub](https://github.com/SahilNadaf337)
+## 📫 Connect with me
 
+[LinkedIn](https://www.linkedin.com/in/sahil-nadaf-9a085126a/) | [GitHub](https://github.com/SahilNadaf337)
