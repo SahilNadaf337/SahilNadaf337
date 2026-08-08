@@ -1,19 +1,21 @@
 # Hi, I'm Sahil Nadaf 👋
 
-🎓 Electronics and Communication Engineering Graduate | CGPA: 8.94  
+🎓 Electronics and Communication Engineering Graduate | CGPA: 8.94
 🏫 KLE Technological University
 
 🔬 Interested in Analog & Mixed-Signal IC Design and Semiconductor Technology.
 
- 💼 Internship
+💼 Internship
 
 **TCS — Custom Layout and Physical Verification Intern**
 
 💡 Projects:
+
 - LDO Regulator Design and Layout using UMC 180nm
 - Standard Cell Library Creation and Characterization using GPDK 45nm
 
 ⚡ Skills:
+
 - Analog IC Design and Layout
 - Custom Layout and Physical Verification
 
