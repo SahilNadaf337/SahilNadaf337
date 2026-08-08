@@ -5,7 +5,7 @@
 
 🎓 Electronics and Communication Engineering Graduate (CGPA: 8.94) from KLE Technological University.
 
-🔬 Specializing in Analog & Mixed-Signal IC Design.
+🔬 Specializing in Analog & Mixed-Signal IC Design and Layout.
 
 💡 Projects: LDO Regulator, Bandgap Reference, Op-Amps, Standard Cell Layout etc.
 
