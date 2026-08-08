@@ -5,6 +5,10 @@
 
 🔬 Interested in Analog & Mixed-Signal IC Design and Semiconductor Technology.
 
+## 💼 Internship
+
+**TCS — Custom Layout and Physical Verification Intern**
+
 💡 Projects:
 - LDO Regulator Design and Layout using UMC 180nm
 - Standard Cell Library Creation and Characterization using GPDK 45nm
