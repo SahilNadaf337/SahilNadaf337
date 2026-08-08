@@ -5,7 +5,7 @@
 
 🔬 Interested in Analog & Mixed-Signal IC Design and Semiconductor Technology.
 
-## 💼 Internship
+ 💼 Internship
 
 **TCS — Custom Layout and Physical Verification Intern**
 
