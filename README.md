@@ -6,14 +6,11 @@
 🔬 Interested in Analog & Mixed-Signal IC Design and Semiconductor Technology.
 
 💡 Projects:
-- LDO Regulator
-- Bandgap Reference
-- Op-Amp Design
-- Standard Cell Layout
+- LDO Regulator Design and Layout using UMC 180nm
+- Standard Cell Library Creation and Characterization using GPDK 45nm
 
 ⚡ Skills:
-- Cadence Virtuoso
-- Analog IC Design
+- Analog IC Design and Layout
 - Custom Layout and Physical Verification
 
 🚀 Incoming Systems Engineer at TCS
