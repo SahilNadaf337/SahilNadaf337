@@ -14,9 +14,7 @@
 ⚡ Skills:
 - Cadence Virtuoso
 - Analog IC Design
-- Custom Layout
-- DRC, LVS & PEX
-- LTspice
+- Custom Layout and Physical Verification
 
 🚀 Incoming Systems Engineer at TCS
 
